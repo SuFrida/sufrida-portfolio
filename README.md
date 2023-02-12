@@ -1,12 +1,8 @@
 # Personal Portfolio 👨🏿‍💻
 
-> Check it out [here](https://asaolu.netlify.app)
+> Check it out [here]()
 
-### Light-House Report ⚡️
-
-![Light House Report](https://raw.githubusercontent.com/AsaoluElijah/portfolio/master/light-house-report.png)
-
-### Technologies + Tools used 
+### Technologies + Tools used
 
 - [NuxtJs](https://nuxtjs.org/)
 - [Bootstrap-vue](https://bootstrap-vue.org/)
@@ -31,6 +27,7 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
 
 ### Lincense
@@ -39,4 +36,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 ### Author
 
-Made with ❤ and ☕️ by [Asaolu Elijah](https://twitter.com/asaolu_elijah)
+Made with ❤ by [Frida SuFrida](https://github.com/SuFrida/)
