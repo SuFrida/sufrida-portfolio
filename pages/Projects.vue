@@ -92,6 +92,14 @@ export default {
           image_cover: require("@/assets/tac.png"),
           link: "https://www.tecaudiocoders.com/",
         },
+        {
+          title: "Legallyinc",
+          tag: "Wordpress Website with Download Option",
+          description:
+            "Wordpress e-commerce website for entrepeneurs in look for legal services.",
+          image_cover: require("@/assets/legallyinc.png"),
+          link: "https://legallyinc.com.mx/",
+        },
       ],
     };
   },
@@ -133,6 +141,9 @@ export default {
 };
 </script>
 <style scoped>
+.about {
+  margin-bottom: 1% !important;
+}
 .row {
   margin-top: 70px;
 }
